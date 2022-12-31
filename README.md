@@ -1,5 +1,5 @@
 ### Oi, meu nome é Heric 👋
-👨🏻‍💻 Atualmente estou estudando Engenharia de Computação na Universidade Federal do Ceará <br>
+👨🏻‍💻 Atualmente estou estudando Ciência da Computação na Universidade Federal do Ceará <br>
 📧 Contate-me no e-mail: hericsilvaho@gmail.com<br>
 
  <div>
